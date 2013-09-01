@@ -1,0 +1,8 @@
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\bin\Debug\AniPlanetToMAL.exe
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\bin\Debug\AniPlanetToMAL.pdb
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\bin\Debug\AniPlanetToMAL.xml
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\obj\x86\Debug\AniPlanetToMAL.vbproj.GenerateResource.Cache
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\obj\x86\Debug\AniPlanetToMAL.exe
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\obj\x86\Debug\AniPlanetToMAL.xml
+D:\Data\Projects\AniPlanetToMAL\AniPlanetToMAL\obj\x86\Debug\AniPlanetToMAL.pdb
